@@ -1,2 +1,3 @@
-# HelloWorld
-This is a hello world repository
+Go Bucks
+I am a buckeye
+Today is Saturday
